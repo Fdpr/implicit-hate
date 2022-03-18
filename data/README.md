@@ -4,6 +4,8 @@ Some data files couldn't be uploaded because of Gits 100MB file limit. Missing a
 - the Fasttext embeddings (https://fasttext.cc/)
 - the finetuned Fasttext model (can be provided if wanted. However, it isn't any good. So why should you want it, anyway??)
 
+The other data was either created or used in the process of the paper.
+
 - _Gab-Hate-Corpus_ contains data from (https://osf.io/edua3/)
 - _RNSB_classifiers_ contains pickled logistic regression classifiers for the hatefulness metric
 - _davidson_ contains data from (https://github.com/t-davidson/hate-speech-and-offensive-language)
